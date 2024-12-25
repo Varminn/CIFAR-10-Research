@@ -1,6 +1,4 @@
-CIFAR-10 Neural Network Training Project
-Overview
-This project focuses on implementing and training Neural Networks and Convolutional Neural Networks (CNNs) on the CIFAR-10 dataset. The pipeline includes foundational concepts like backpropagation, batch normalization, and dropout, along with hands-on experience using modern deep learning libraries like PyTorch.
+This project focuses on implementing and training Neural Networks and Convolutional Neural Networks (CNNs) on the CIFAR-10 dataset. The pipeline includes foundational concepts like backpropagation, batch normalization, dropout, and hands-on experience using modern deep-learning libraries like PyTorch.
 
 The assignment demonstrates key machine learning techniques for image classification and explores optimization strategies to improve model performance.
 
